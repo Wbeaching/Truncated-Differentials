@@ -1,4 +1,9 @@
 ﻿# Truncated-Differentials
+paper:
+New Automatic Search Method for
+Truncated-Differential Characteristics
+Application to Midori, SKINNY and
+CRAFT
 
 The .py program will calculate T^r where T is a 2^{16} * 2^{16} matrix. 
 
